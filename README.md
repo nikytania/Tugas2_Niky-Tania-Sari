@@ -24,3 +24,5 @@ https://github.com/openvinotoolkit/openvino
 Dibuat oleh openvinotoolkit
 Menggunakan bahasa C++, python, C, Cmake, JavaScript, HTML
 Merupakan perangkat lunak sumber terbuka untuk mengoptimalkan dan menerapkan model pembelajaran mendalam. 
+
+Tugas nomor 2 https://trello.com/b/nopuPXWz/aktivitas-selama-4minggu
